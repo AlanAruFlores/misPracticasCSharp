@@ -1,0 +1,14 @@
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache

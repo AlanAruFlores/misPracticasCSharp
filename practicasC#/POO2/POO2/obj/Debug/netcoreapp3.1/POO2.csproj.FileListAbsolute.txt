@@ -1,0 +1,14 @@
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.exe
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.deps.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.runtimeconfig.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.runtimeconfig.dev.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\bin\Debug\netcoreapp3.1\POO2.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.csproj.AssemblyReference.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.AssemblyInfoInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.AssemblyInfo.cs
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.csproj.CoreCompileInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO2\POO2\obj\Debug\netcoreapp3.1\POO2.genruntimeconfig.cache

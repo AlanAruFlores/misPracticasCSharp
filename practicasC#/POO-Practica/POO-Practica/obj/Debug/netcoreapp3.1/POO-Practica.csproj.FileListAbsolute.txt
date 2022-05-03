@@ -1,0 +1,14 @@
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.exe
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.deps.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.runtimeconfig.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.runtimeconfig.dev.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\bin\Debug\netcoreapp3.1\POO-Practica.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.csproj.AssemblyReference.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.AssemblyInfoInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.AssemblyInfo.cs
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.csproj.CoreCompileInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\POO-Practica\POO-Practica\obj\Debug\netcoreapp3.1\POO-Practica.genruntimeconfig.cache

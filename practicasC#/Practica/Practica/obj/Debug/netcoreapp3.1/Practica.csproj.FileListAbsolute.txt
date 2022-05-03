@@ -1,0 +1,14 @@
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.exe
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.deps.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.dev.json
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.AssemblyReference.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfoInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfo.cs
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.CoreCompileInputs.cache
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.dll
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\alang\OneDrive\Escritorio\Cursos de Programacion\C#\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.genruntimeconfig.cache
