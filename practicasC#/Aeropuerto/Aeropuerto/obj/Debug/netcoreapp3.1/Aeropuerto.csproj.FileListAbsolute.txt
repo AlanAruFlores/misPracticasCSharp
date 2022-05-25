@@ -1,0 +1,14 @@
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.exe
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.deps.json
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.runtimeconfig.json
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.runtimeconfig.dev.json
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.dll
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\bin\Debug\netcoreapp3.1\Aeropuerto.pdb
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.AssemblyInfoInputs.cache
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.AssemblyInfo.cs
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.dll
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.pdb
+C:\Users\alang\source\repos\Aeropuerto\Aeropuerto\obj\Debug\netcoreapp3.1\Aeropuerto.genruntimeconfig.cache
